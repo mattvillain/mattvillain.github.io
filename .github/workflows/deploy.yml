@@ -42,12 +42,12 @@ jobs:
         run: myst build --html
       - name: Verify built site
         run: |
-          ls -la ./_build/site
-          test -f ./_build/site/index.html
+          ls -la ./_build/html
+          test -f ./_build/html/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: './_build/site'
+          path: './_build/html'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
