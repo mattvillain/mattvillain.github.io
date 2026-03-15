@@ -18,3 +18,4 @@ A category describes how you can compose certain families of maps. We can have t
 - $\textbf{Markov}$ the category of probability spaces and markov kernels between them. 
 - $\textbf{Top}$ the category of topological spaces and continuous functions between them. 
 - $\textbf{Func}$ the category of functors and natural transformations between them (this will make sense later). 
+

@@ -1,4 +1,4 @@
-# Stochastic Calculus
+# 3. Stochastic Calculus
 
 Stochastic calculus is what happens when you want to define and integrate processes that happen in continuous time: you first define a process in continuous time, and that goes fairly smoothly (as we will do in a minute), but then you try using notions of integration from calculus, things go poorly. 
 

@@ -1,4 +1,4 @@
-# Probability for Finance
+# 2. Probability for Finance
 
 There are millions of course on probability theory. Therefore, I will be slighlty esotic - and if you do not like what you see, feel free to return to one of the many great guides on studying probability. 
 
