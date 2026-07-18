@@ -10,40 +10,8 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: intro.md
-    - title: Artificial Intelligence
-      children:
-        - file: artificial_intelligence/intro.md
-        - title: Interesting Topics
-          children:
-          - file: artificial_intelligence/1_interesting_topics/intro.md
-        - title: Understanding AI
-          children:
-            - file: artificial_intelligence/2_understanding_AI/intro.md
-            - file: artificial_intelligence/2_understanding_AI/1_neural_networks.md
-            - file: artificial_intelligence/2_understanding_AI/2_learning_theory.md
-            - file: artificial_intelligence/2_understanding_AI/3_nlp.md
-            - file: artificial_intelligence/2_understanding_AI/4_architecture.md
-            - file: artificial_intelligence/2_understanding_AI/5_geometric_deep_learning.md
-            - file: artificial_intelligence/2_understanding_AI/6_category_theory_in_dl.md
-            - file: artificial_intelligence/2_understanding_AI/7_reinforcement_learning.md
-            - file: artificial_intelligence/2_understanding_AI/8_post_training.md
-            - file: artificial_intelligence/2_understanding_AI/9_interpretability.md
-            - file: artificial_intelligence/2_understanding_AI/10_reasoning.md
-            - file: artificial_intelligence/2_understanding_AI/11_hardware.md
-    - title: Mathematics For Quantitative Finance
-      children:
-        - file: mathematics_for_quantitative_finance/intro.md
-        - file: mathematics_for_quantitative_finance/1_probability.md
-        - file: mathematics_for_quantitative_finance/2_stochastic_calculus.md
-        - file: mathematics_for_quantitative_finance/3_market_completeness.md
-        - file: mathematics_for_quantitative_finance/4_portfolio_theory.md
-        - file: mathematics_for_quantitative_finance/5_numerical_methods.md
-        - file: mathematics_for_quantitative_finance/6_american_options.md
-        - file: mathematics_for_quantitative_finance/7_deep_hedging.md
-        - file: mathematics_for_quantitative_finance/8_neural_sdes.md
-        - file: mathematics_for_quantitative_finance/9_deep_portfolio_optimization.md
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  options:
+    favicon: site_logo.svg
+    logo: site_logo.svg
