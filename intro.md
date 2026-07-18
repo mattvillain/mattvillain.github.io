@@ -1,10 +1,10 @@
-# Topics in Artificial Intelligence and Quantitative Finance
+# Mattia Jacopo Villani
 
-Hi, my name is Mattia Villani. 
+Hi, my name is Mattia. 
 
 I am a researcher in AI with applications in mathematics and finance. I did my PhD at King's under supervision of Peter McBurney and Dr. Frederik Mallmann-Trenn. Then I worked at Symbolica for a brief while, when they had just secured their series A. During and after my PhD I worked as an Applied Research Scientist at JP Morgan Chase, in the AI Research team first and then in the Quantum-Inspired Algorithms team, in Global Technology. 
 
-I am interested in using mathematics and AI to address problems in financial markets. I keep the main website intentionally compact, and archive the longer topic notes separately in the repository.
+I enjoy turning mathematics into code and I am interested in using AI to address problems in financial markets. I keep the main website intentionally compact, and archive the longer topic notes separately in the repository.
 
 This is a work in progress. Content will be added over time. If you have any suggestions, please reach out to me on LinkedIn (Mattia Jacopo Villani). 
 
